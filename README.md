@@ -19,13 +19,18 @@
 
 ## 🧠 "Me inspirei em gigantes..."
 
+---
+
+## 🧠 "Me inspirei em gigantes..."
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Bill_Gates_1983.jpg" width="300" alt="Bill Gates" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bill_Gates_Mug_Shot.jpg/800px-Bill_Gates_Mug_Shot.jpg" width="300" alt="Bill Gates retrô" />
 </p>
 
 <p align="center">
-  <em>Foto retrô de <strong>Bill Gates</strong> nos anos 80 — um ícone da inovação 🖤</em>
+  <em>Foto retrô de <strong>Bill Gates</strong> em 1977 — um ícone da inovação 🖤</em>
 </p>
+
 
 ---
 
@@ -60,7 +65,7 @@
 ## 🌐 Redes & Contato
 
 - 📧 Email: **gabrielcoutos14@gmail.com**
-- 💼 LinkedIn: *(adicione se quiser depois)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/gabriel-couto-b50a26232/*
 - 💬 Sempre aberto a trocar ideias sobre tecnologia, inovação e mobile!
 
 ---
