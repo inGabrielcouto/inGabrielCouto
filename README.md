@@ -20,11 +20,11 @@
 ## 🧠 "Me inspirei em gigantes..."
 
 <p align="center">
-  <img src="https://i.imgur.com/yVbE7C5.jpg" width="300" alt="Bill Gates retrô" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bill_Gates_2018.jpg/320px-Bill_Gates_2018.jpg" width="200" alt="Bill Gates retrô" />
 </p>
 
 <p align="center">
-  <em>Foto retrô de <strong>Bill Gates</strong> em 1977 — um ícone da inovação 🖤</em>
+  <em>Foto de <strong>Bill Gates</strong> — um ícone da inovação 🖤</em>
 </p>
 
 ---
